@@ -4,7 +4,7 @@
 
 **`Back-end Developer (C# and Java)`**
 
-👉My name is **Pham Quoc Thinh**💬, and I am currently a senior student at **FPT University HCM**🎓. My forte is backend programming『**C# and Java**』. I have experience creating **RESTful APIs**,  using **Microsoft Azure**🚀 deployment services『**App Service, MySQL Database Service, etc.**』, being proficient in Git source code repositories『**(GitHub and Gitlab)**』, and having a basic level of reading and understanding **specialized English documents**. Highly responsible and eager to learn at work.
+My name is **Pham Quoc Thinh**💬, and I am currently a senior student at **FPT University HCM**🎓. My forte is backend programming『**C# and Java**』. I have experience creating **RESTful APIs**,  using **Microsoft Azure**🚀 deployment services『**App Service, MySQL Database Service, etc.**』, being proficient in Git source code repositories『**(GitHub and Gitlab)**』, and having a basic level of reading and understanding **specialized English documents**. Highly responsible and eager to learn at work.
 
 <div align="center">
   <picture>
